@@ -1,3 +1,3 @@
 #!/bin/bash
 uptime
-cat /etc/issue
+echo "Hello World"
